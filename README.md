@@ -9,8 +9,8 @@ The server uses the following environment variables (with default values if they
 | Variable     | Description                    |
 | ------------ | ------------------------------ |
 | `API_HOST`   | Host for the API               |
-| `PORTAL_HOST`| Host for the portal            |
-| `N3DS_HOST`  | Host for the N3DS service      |
+| `PORTAL_HOST`| Host for the portal (Wii U)    |
+| `N3DS_HOST`  | Host for the n3ds (3ds)        |
 | `HTTP_PORT`  | HTTP server listening port     |
 
 ---
